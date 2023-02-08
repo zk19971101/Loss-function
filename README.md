@@ -15,7 +15,7 @@
     在pytorch中，交叉熵损失函数 = 负对数似然函数 + softmax + log
     交叉熵与似然之间的关系：假设模型预测的观测样本qθ（x=i）中的某个样本在训练集中出现的频率记为p(x=i)，给定N个条件独立的样本时，
     则模型在训练集中的似然可以写为：
-   ![image]([images\交叉熵与负对数似然.png](https://raw.githubusercontent.com/zk19971101/Loss-function/main/images/%E4%BA%A4%E5%8F%89%E7%86%B5%E4%B8%8E%E8%B4%9F%E5%AF%B9%E6%95%B0%E4%BC%BC%E7%84%B6.png?token=GHSAT0AAAAAAB6JON5R3MB2CJAPVCW7CADOY7DHZSQ))
+   ![image](https://raw.githubusercontent.com/zk19971101/Loss-function/main/images/%E4%BA%A4%E5%8F%89%E7%86%B5%E4%B8%8E%E8%B4%9F%E5%AF%B9%E6%95%B0%E4%BC%BC%E7%84%B6.png?token=GHSAT0AAAAAAB6JON5R3MB2CJAPVCW7CADOY7DHZSQ)
    
     可以理解为：采用这个模型对训练集建模的可能性有多大？越大表示模型对观测数据拟合得越好。
 
