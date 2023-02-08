@@ -3,7 +3,7 @@
 1.交叉熵损失函数 crossentropyloss
 
     熵是计算事件所有可能性的信息量的期望。离散随机事件出现的概率越大，信息熵越小。
-  ![image](https://raw.githubusercontent.com/zk19971101/Loss-function/main/images/entropy.png?token=GHSAT0AAAAAAB6JON5RCUP5YCRTBMD2BBUCY7DHXKQ)
+  
   ![image](https://github.com/zk19971101/Loss-function/blob/main/images/entropy.png?raw=true)
   
     交叉熵（Cross entropy）：在信息论中，基于相同事件测度的两个概率分布p和q，p为‘真实分布’，
