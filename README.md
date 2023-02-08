@@ -8,7 +8,7 @@
   
     交叉熵（Cross entropy）：在信息论中，基于相同事件测度的两个概率分布p和q，p为‘真实分布’，
     当基于一个“非自然”的概率分布Q进行编码时，在事件集合中唯一标识一个事件需要的平均比特数。
-  ![image]([images\cross_entropy.png](https://raw.githubusercontent.com/zk19971101/Loss-function/main/images/cross_entropy.png?token=GHSAT0AAAAAAB6JON5Q6NMROPPRUNRTHNPEY7DHZBA))
+  ![image](https://github.com/zk19971101/Loss-function/blob/main/images/cross_entropy.png?raw=true)
   ###交叉熵用于衡量两个概率分布之间的差异性信息。
 
 2.负对数似然函数 negative log likelihood loss,NLLLoss
