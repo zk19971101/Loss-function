@@ -32,7 +32,8 @@
     衡量两个概率分布之间差异的非对称性度量。
    ![image](https://github.com/zk19971101/Loss-function/blob/main/images/KL_divegence.png?raw=true)
    
-   通过p分布的编码方式编码来自p分布样本时，其最优编码所需要的bit个数为：
+   通过p分布的编码方式编码来自p分布样本时，其最优编码所需要的bit个数为:
+   
    ![image](https://github.com/zk19971101/Loss-function/blob/main/images/%E4%BF%A1%E6%81%AF%E7%86%B5.png?raw=true)
    
    通过q分布的编码方式编码来自p分布样本时，其最优编码所需要的bit个数为：
